@@ -1,0 +1,997 @@
+{
+  "settings": {
+    "name": "Site-05-23_2025",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": [
+        "#ffffff"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 24,
+    "versionPublish": "4.7.6"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "Форма обратной связи",
+          "title1": "Заголовок - приветствие Ваших клиентов",
+          "title2": "уникальное торговое предложение № 1",
+          "title3": "УНИКАЛЬНОЕ ТОРГОВОЕ ПРЕДЛОЖЕНИЕ № 2",
+          "text1": "Здесь информация, которая привлечет Вашего потенциального клиента - посетителя этого сайта.",
+          "text2": "Здесь информация, которая привлечет Вашего потенциального клиента - посетителя этого сайта.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">жду звонка!</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "olga.vasileva.com@gmail.com",
+            "alerts": {
+              "success": "Спасибо за Вашу заявку!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "First Name",
+                "customTitle": "Имя"
+              },
+              "lastName": {
+                "visible": false,
+                "title": "Last Name",
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email Address",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone No.",
+                "customTitle": "Номер телефона"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "@primaryColor",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "icon1": "fa-mobile",
+            "icon2": "fa-trophy",
+            "icon3": "fa-check-circle"
+          },
+          "title1": "Ваши преимущества",
+          "title2": "Ваши преимущества",
+          "title3": "Ваши преимущества",
+          "title4": "Flashy Look",
+          "text1": "Здесь можно разместить информацию о Ваших услугах или товарах, либо конкурентоспособные преимущества Вашей компании.",
+          "text2": "Здесь можно разместить информацию о Ваших услугах или товарах, либо конкурентоспособные преимущества Вашей компании.",
+          "text3": "Здесь можно разместить информацию о Ваших услугах или товарах, либо конкурентоспособные преимущества Вашей компании.",
+          "text4": "Lorem ipsum dolor sit amet elit convallis neque convallis est non turpis nisl ac justo rutrum sollic itudin urna interdum.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features5",
+          "_anchor": "features5-f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=FKu4v_boJ3o",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<br>видео о вашей компании",
+          "text": "Здесь будет видео о Вашей компании. А может быть о Вашем товаре или услуге? Видео поможет визуализировать то, что Вы продаете, и привлечь внимание Вашего потенциального покупателя.<br><br>У Вас нет подходящего видео? Тогда можно просто разместить красивое изображение, символизирующее то, чем Вы занимаетесь.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">смотреть видео</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4"
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/13-fhd.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Слайд 1",
+                "contentAlign": "left",
+                "overlay": "true",
+                "text": "Здесь можно разместить фотографии Вашей компании, товара или услуги. Небольшое описание на каждом слайде подтолкнет Вашего потенциального клиента оставить заявку, а кнопку ниже помогут сделать это легко и быстро",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">заказать</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">подробнее</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/462.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Слайд 2",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Здесь можно разместить фотографии Вашей компании, товара или услуги. Небольшое описание на каждом слайде подтолкнет Вашего потенциального клиента оставить заявку, а кнопку ниже помогут сделать это легко и быстро",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15-revert-fhd.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Слайд 3",
+                "contentAlign": "right",
+                "overlay": "true",
+                "text": "Здесь можно разместить фотографии Вашей компании, товара или услуги. Небольшое описание на каждом слайде подтолкнет Вашего потенциального клиента оставить заявку, а кнопку ниже помогут сделать это легко и быстро",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "showProgress1": true,
+            "progress1": 40,
+            "showProgress2": true,
+            "progress2": 50,
+            "showProgress3": true,
+            "progress3": 60,
+            "showProgress4": true,
+            "progress4": 70,
+            "showProgress5": false,
+            "progress5": 70,
+            "showProgress6": false,
+            "progress6": 60,
+            "showProgress7": false,
+            "progress7": 50,
+            "showProgress8": false,
+            "progress8": 40
+          },
+          "value1": "40%",
+          "value1_style": "width:40%",
+          "value2": "50%",
+          "value2_style": "width:50%",
+          "value3": "60%",
+          "value3_style": "width:60%",
+          "value4": "70%",
+          "value4_style": "width:70%",
+          "value5": "70%",
+          "value5_style": "width:70%",
+          "value6": "60%",
+          "value6_style": "width:60%",
+          "value7": "50%",
+          "value7_style": "width:50%",
+          "value8": "40%",
+          "value8_style": "width:40%",
+          "title": "Ваши умения/достижения",
+          "title1": "Ваши умения/достижения",
+          "title2": "Ваши умения/достижения",
+          "title3": "Ваши умения/достижения",
+          "title4": "Ваши умения/достижения",
+          "title5": "Photoshop",
+          "title6": "Illustrator",
+          "title7": "Coreldraw",
+          "title8": "Photography",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progressBar",
+          "_anchor": "progressBar-n"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#fff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Roboto Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "css": "'Roboto Condensed', sans-serif"
+            },
+            "fontColor": "#333"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">ВЫПАДАЮЩЕЕ МЕНЮ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">Блок на сайте</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">БЛОК 1</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">БЛОК 2</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 3</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 4</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 5</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 6</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 7</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">ПОД МЕНЮ 8</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#top\">БЛОК 3</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">РАЗДЕЛ САЙТА</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"#top\">заказать звонок</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger mbr-title-font\" href=\"#top\">консультация</a></li>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ваш ЛОГОтип</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#333",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#fff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#333"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "_name": "dropdown-menu1",
+          "_anchor": "dropdown-menu1-2"
+        },
+        {
+          "_params": {
+            "elements": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "@primaryColor",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "iconsColor": "#fff",
+            "icon1": "fa-money",
+            "icon2": "fa-picture-o",
+            "icon3": "fa-rocket",
+            "icon4": "fa-globe"
+          },
+          "title1": "О ВАС В ЦИФРАХ",
+          "title2": "О ВАС В ЦИФРАХ",
+          "title3": "о вас в цифрах",
+          "title4": "О ВАС В ЦИФРАХ",
+          "number1": "899",
+          "number2": "1783",
+          "number3": "1247",
+          "number4": "3777",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "counters3",
+          "_anchor": "counters3-7"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showInfo": false,
+            "showMedia": true,
+            "showText": true,
+            "bgImageRadio": false,
+            "paddingTop": 2,
+            "paddingBottom": "0",
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "товар/услуга",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"index.html#msg-box10-9\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "ТОВАР/УСЛУГА",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "ТОВАР/УСЛУГА",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "ТОВАР/УСЛУГА",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"index.html#msg-box10-9\" class=\"rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a><br>",
+          "media5": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/5.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title5": "ТОВАР/УСЛУГА",
+          "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
+          "media6": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title6": "ТОВАР/УСЛУГА",
+          "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box10",
+          "_anchor": "msg-box10-9"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "Bakery egg foods around the world",
+          "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text1": "<p>Фотогалерея Ваших работ</p>",
+          "media2": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title2": "Bakery egg foods around the world",
+          "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/3.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title3": "Bakery egg foods around the world",
+          "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive post-thumb",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title4": "Bakery egg foods around the world",
+          "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
+          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\">Continue reading <i class=\"fa fa-angle-right\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box23",
+          "_anchor": "msg-box23-m"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "filter": false,
+            "fullWidth": false,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "noGutter": true,
+            "showText": false,
+            "bgColor": "#fff",
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-l"
+        },
+        {
+          "_params": {
+            "showButtons": true,
+            "bgImageRadio": false,
+            "elements": "3",
+            "best": "2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Название тарифа",
+          "text1": "или пакета услуг",
+          "price1": "<i>$20</i>",
+          "list1": "<p>Описание тарифа</p><p>Описание тарифа</p><p>Описание тарифа</p><p>Описание тарифа</p><p>Описание тарифа</p>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#pricing-table2-c\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "title2": "Название тарифа",
+          "text2": "или пакета услуг",
+          "price2": "$49",
+          "list2": "<p>Описание тарифа</p><p><b>Описание тарифа</b></p><p>Описание тарифа</p><p>Описание тарифа</p><p>Описание тарифа</p>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#pricing-table2-c\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "title3": "Название тарифа",
+          "text3": "или пакета услуг",
+          "price3": "$95",
+          "list3": "<p>Описание тарифа\r</p><p>Описание тарифа\r<span style=\"color: rgb(68, 68, 68); font-size: 14px; font-weight: 100; letter-spacing: 0.5px; background-color: inherit; display: inline !important;\"></span></p><p>Описание тарифа\r<span style=\"color: rgb(68, 68, 68); font-size: 14px; font-weight: 100; letter-spacing: 0.5px; background-color: inherit; display: inline !important;\"></span></p><p>Описание тарифа\r<span style=\"color: rgb(68, 68, 68); font-size: 14px; font-weight: 100; letter-spacing: 0.5px; background-color: inherit; display: inline !important;\"></span></p><p>Описание тарифа</p>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#pricing-table2-c\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "title4": "Super Plan",
+          "text4": "Lorem ipsum Package",
+          "price4": "$99",
+          "list4": "<p><b>90</b> Email Addresses</p><p><b>85GB</b> of Storage</p><p><b>40</b> Databases</p><p><b>10</b> Domains</p><p><b>24/7</b> Support</p>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\">SELECT PLAN</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-c"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/163.jpg",
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "красивая параллакс вставка",
+          "text": "А здесь можно разместить слоган Вашей компании...",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "parallax1",
+          "_anchor": "parallax1-h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "elements": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1.png",
+              "class": "img-responsive center-block",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2.png",
+              "class": "img-responsive center-block",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3.png",
+              "class": "img-responsive center-block",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4.png",
+              "class": "img-responsive center-block",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5.png",
+              "class": "img-responsive center-block",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "Ваши партнеры",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features7",
+          "_anchor": "features7-g"
+        },
+        {
+          "_styles": {
+            "p, span": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "bgColor1": "#222",
+            "bgImageRadio2": true,
+            "bgImage2": "@PROJECT_PATH@/assets/images/264.jpg",
+            "overlay2": false,
+            "overlayColor2": "#151515",
+            "overlayOpacity2": 0.75
+          },
+          "text1_1": "А здесь будут отзывы Ваших довольных клиентов!&nbsp;А здесь будут отзывы Ваших довольных клиентов!А здесь будут отзывы Ваших довольных клиентов!  ",
+          "text1_2": "ИМЯ И ФАМИЛИЯ - ВАШЕГО КЛИЕНТА",
+          "text2_1": "А здесь будут отзывы Ваших довольных клиентов! А здесь будут отзывы Ваших довольных клиентов!А здесь будут отзывы Ваших довольных клиентов!",
+          "text2_2": "ИМЯ И ФАМИЛИЯ - ВАШЕГО КЛИЕНТА",
+          "text3_1": "А здесь будут отзывы Ваших довольных клиентов! А здесь будут отзывы Ваших довольных клиентов!А здесь будут отзывы Ваших довольных клиентов!",
+          "text3_2": "имя и фамилия - вашего клиента",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "_anchor": "testimonials4-d"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-mobile",
+            "icon2": "fa-check-square-o",
+            "icon3": "fa-map-marker",
+            "icon4": "fa-envelope"
+          },
+          "title": "здесь ваши контакты",
+          "text": "Небольшой текст о компании, небольшой текст о компании,&nbsp;небольшой текст о компании,&nbsp;небольшой текст о компании,&nbsp;небольшой текст о компании,&nbsp;небольшой текст о компании,&nbsp;небольшой текст о компании, ",
+          "title1": "телефон",
+          "title2": "поддержка",
+          "title3": "адрес",
+          "title4": "почта",
+          "text1": "+7 (900) 123 456 90",
+          "text2": "support@website.com",
+          "text3": "г. Москва, Советская ул., 7",
+          "text4": "support@website.com",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts5",
+          "_anchor": "contacts5-a"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/161.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#333",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5,
+            "googleMap": {
+              "address": "Великий Новгород, ул. Корсунова, 12Г, офис 11",
+              "placeId": "Eo4B0L_RgC4g0JDQu9C10LrRgdCw0L3QtNGA0LAg0JrQvtGA0YHRg9C90L7QstCwLCAxMiwgMTEsINCS0LXQu9C40LrQuNC5INCd0L7QstCz0L7RgNC-0LQsINCd0L7QstCz0L7RgNC-0LTRgdC60LDRjyDQvtCx0LsuLCDQoNC-0YHRgdC40Y8sIDE3MzAxNiIeGhwKFgoUChIJr31-RLvrvkYRJijmFsOJFIkSAjEx",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "title1": "о компании",
+          "text1": "Здесь можно разместить текст о Вашей компании, Ваших товарах или услугах, условиях сотрудничества а также другая важной информации о Вас и о Вашем бизнесе.",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"#bottom\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-instagram\"></i></a> ",
+          "text2": "Рабочее время:<br>Пон-пт &nbsp;с 10 - до 18",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">отправить сообщение<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "title": "Быстрое сообщение",
+          "form": {
+            "action": "olga.vasileva.com@gmail.com",
+            "alerts": {
+              "success": "Спасибо за Вашу заявку!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Текст сообщения"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-b"
+        }
+      ]
+    }
+  }
+}
