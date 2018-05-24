@@ -49,7 +49,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -115,7 +115,7 @@
             "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "@primaryColor",
@@ -156,7 +156,7 @@
             "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -216,7 +216,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">заказать</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"index.html#slider-j\" data-toolbar=\"-mbrBtnMove\">подробнее</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/466.jpg",
+                "image": "@PROJECT_PATH@/assets/images/470.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -255,7 +255,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -379,7 +379,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "@primaryColor",
@@ -420,7 +420,7 @@
             "bgImageRadio": false,
             "paddingTop": 2,
             "paddingBottom": "0",
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -449,7 +449,7 @@
           },
           "title1": "товар/услуга",
           "info1": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text1": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"index.html#msg-box10-9\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a>",
+          "text1": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"index.html#msg-box10-9\" class=\"text-primary rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a>",
           "media2": {
             "image": {
               "active": true,
@@ -467,7 +467,7 @@
           },
           "title2": "ТОВАР/УСЛУГА",
           "info2": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text2": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
+          "text2": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media3": {
             "image": {
               "active": true,
@@ -485,7 +485,7 @@
           },
           "title3": "ТОВАР/УСЛУГА",
           "info3": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text3": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i></a>",
+          "text3": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"./blog-single.html\" class=\"text-primary rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media4": {
             "image": {
               "active": true,
@@ -503,7 +503,7 @@
           },
           "title4": "ТОВАР/УСЛУГА",
           "info4": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text4": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"index.html#msg-box10-9\" class=\"rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a><br>",
+          "text4": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"index.html#msg-box10-9\" class=\"rmore mbr-primary-color mbr-title-font\">Заказать &gt; &nbsp;</a><br>",
           "media5": {
             "image": {
               "active": true,
@@ -521,7 +521,7 @@
           },
           "title5": "ТОВАР/УСЛУГА",
           "info5": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text5": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
+          "text5": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "media6": {
             "image": {
               "active": true,
@@ -539,7 +539,7 @@
           },
           "title6": "ТОВАР/УСЛУГА",
           "info6": "<i class=\"fa fa-user\"></i> <a href=\"#\">John Doe</a> &nbsp;&nbsp;<i class=\"fa fa-clock-o\"></i> April 21, 2016 &nbsp;&nbsp;<i class=\"fa fa-comments\"></i> <a href=\"#\">8 Comments</a>",
-          "text6": "<p>Nulla pharetra porttitor justo eu maximus. Curabitur cursus at lectus at tristique. Curabitur vehicula augue eget magna finibus, nec lobortis ligula interdum. Quisque in tellus augue.</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i></a>",
+          "text6": "<p>Небольшое описание Вашего товара или услуги будет здесь. Небольшое описание Вашего товара или услуги будет здесь.&nbsp;</p><a href=\"./blog-single.html\" class=\"rmore mbr-primary-color mbr-title-font\"></a><a href=\"index.html#msg-box10-9\">Заказать&nbsp;</a><i class=\"fa fa-angle-right\"></i>",
           "alias": "unicore/components",
           "_tags": [
             "Theme"
@@ -552,7 +552,7 @@
             "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -745,7 +745,7 @@
             "best": "2",
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -791,7 +791,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/167.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/171.jpg",
             "overlay": true,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
@@ -812,7 +812,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -881,7 +881,7 @@
           "_params": {
             "bgColor1": "#222",
             "bgImageRadio2": true,
-            "bgImage2": "@PROJECT_PATH@/assets/images/268.jpg",
+            "bgImage2": "@PROJECT_PATH@/assets/images/272.jpg",
             "overlay2": false,
             "overlayColor2": "#151515",
             "overlayOpacity2": 0.75
@@ -904,7 +904,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -943,7 +943,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/165.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/169.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#333",
